@@ -14,23 +14,23 @@
  * @package WordPress
  */
 
-define('WP_REDIS_HOST', '');
+define('WP_REDIS_HOST', 'gia4cs-001.xukwx2.0001.use1.cache.amazonaws.com');
  
 define('WP_HOME','');
 define('WP_SITEURL','');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'wordpress');
+define('DB_NAME', 'gia4cs');
 
 /** MySQL database username */
-define('DB_USER', 'wordpress');
+define('DB_USER', 'giaadmin');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'wordpress');
+define('DB_PASSWORD', 'Passw0rd!');
 
 /** MySQL hostname */
-define('DB_HOST', '');
+define('DB_HOST', 'gia4cswp.c6wcplbdyeto.us-east-1.rds.amazonaws.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
